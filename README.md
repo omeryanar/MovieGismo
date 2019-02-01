@@ -4,7 +4,9 @@ Movie Gismo is a windows application which helps create your personal movie data
 
 You can also find new movies by looking at online lists such as COMING SOON, NOW IN THEATERS, OSCAR WINNERS or IMDB TOP 250. More than 100.000 movies are waiting for you to discover.
 
-![Movie Gismo](https://github.com/omeryanar/Resources/blob/master/MovieGismo/MainScreen.jpg?raw=true)
+![Movie Gismo](https://github.com/omeryanar/Resources/blob/master/MovieGismo/MovieGismo1.png?raw=true)
+
+![Movie Gismo](https://github.com/omeryanar/Resources/blob/master/MovieGismo/MovieGismo2.png?raw=true)
 
 ## Features
 
