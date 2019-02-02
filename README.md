@@ -1,8 +1,10 @@
 # Movie Gismo
 
-Movie Gismo is a windows application which helps create your personal movie database. You can keep track of your watchlist, download movie information, explore cast and crew details, watch trailers, see posters and backdrops, give your own rating and enter other personal data. Movie Gismo can search your video folders and find information automatically. 
+Movie Gismo is a windows application which helps you create your personal movie database. You can keep track of your watchlist, download movie information, explore cast and crew details, watch trailers, see posters and backdrops, give your own rating and enter other personal data. Movie Gismo can search your video folders and find information automatically.
 
-You can also find new movies by looking at online lists such as COMING SOON, NOW IN THEATERS, OSCAR WINNERS or IMDB TOP 250. More than 100.000 movies are waiting for you to discover.
+You can also find new movies by looking at online lists such as **COMING SOON**, **NOW IN THEATERS**, **OSCAR WINNERS** or **IMDB TOP 250**. More than 100.000 movies are waiting for you to discover.
+
+Download and run Setup.exe: https://github.com/omeryanar/MovieGismo/blob/master/Setup.exe
 
 ![Movie Gismo](https://github.com/omeryanar/Resources/blob/master/MovieGismo/MovieGismo1.png?raw=true)
 
