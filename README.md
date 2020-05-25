@@ -1,3 +1,5 @@
+## ARCHIVED !!! Use MovieMatrix instead: https://github.com/omeryanar/moviematrix 
+
 # Movie Gismo
 
 Movie Gismo is a windows application which helps you create your personal movie database. You can keep track of your watchlist, download movie information, explore cast and crew details, watch trailers, see posters and backdrops, give your own rating and enter other personal data. Movie Gismo can search your video folders and find information automatically.
